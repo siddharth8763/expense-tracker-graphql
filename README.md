@@ -1,4 +1,7 @@
 # Expense Tracker Built Using GraphQL
+
+[Access The App Here](https://expense-tracker-graphql-wwud.onrender.com/login)
+
 ![Demo App](https://i.ibb.co/WHyMscm/Screenshot-42.png)
 
 Developed this project as part of learning GraphQL.
@@ -22,6 +25,10 @@ Developed this project as part of learning GraphQL.
 ```js
 MONGO_URI=...
 SESSION_SECRET=...
+```
+
+```js
+VITE_NODE_ENV=
 ```
 
 ### Build the app
