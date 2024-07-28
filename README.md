@@ -1,6 +1,5 @@
-# Expense Tracker Built Using GraphQL
+# [Expense Tracker Built Using GraphQL](https://expense-tracker-graphql-wwud.onrender.com/login)
 
-[Access The App Here](https://expense-tracker-graphql-wwud.onrender.com/login)
 
 ![Demo App](https://i.ibb.co/WHyMscm/Screenshot-42.png)
 
