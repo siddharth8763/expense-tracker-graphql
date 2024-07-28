@@ -1,5 +1,4 @@
-# GraphQL Crash Course - Build an Expense Tracker App
-
+# Expense Tracker Built Using GraphQL
 ![Demo App](https://i.ibb.co/WHyMscm/Screenshot-42.png)
 
 Developed this project as part of learning GraphQL.
